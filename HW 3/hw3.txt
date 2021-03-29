@@ -1,3 +1,12 @@
+# Ricky Rodriguez
+# CSCI 499
+# 03/27/2021
+
+## Homework 3
+## Task: Implement linear regression
+## Data: Housing data from Kings County, Washington from Kaggle
+
+
 # Importing libraries
 import pandas as pd
 import numpy as np
